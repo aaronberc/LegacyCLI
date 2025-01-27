@@ -1,12 +1,6 @@
 THIS REPOSITORY IS NO LONGER MAINTAINED.  IF YOU WISH TO UPDATE IT, FEEL FREE TO FORK.  
 
 
-<br />
-<img src="https://github.com/OpenBB-finance/OpenBBTerminal/blob/main/images/openbb-logo-dark.svg?raw=true#gh-light-mode-only" alt="OpenBB Terminal logo" width="600">
-<img src="https://github.com/OpenBB-finance/OpenBBTerminal/blob/main/images/openbb-logo-light.svg?raw=true#gh-dark-mode-only" alt="OpenBB Terminal logo" width="600">
-<br />
-<br />
-
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/openbb_finance.svg?style=social&label=Follow%20%40openbb_finance)](https://twitter.com/openbb_finance)
 [![GitHub release](https://img.shields.io/github/release/OpenBB-finance/OpenBBTerminal.svg?maxAge=3600)](https://github.com/OpenBB-finance/OpenBBTerminal/releases)
 ![Discord Shield](https://discordapp.com/api/guilds/831165782750789672/widget.png?style=shield)
@@ -18,12 +12,12 @@ THIS REPOSITORY IS NO LONGER MAINTAINED.  IF YOU WISH TO UPDATE IT, FEEL FREE TO
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-The first financial terminal that is free and fully open source. With over 600 commands, the terminal has access to equity, options, crypto, forex, macro economy, fixed income, alternative datasets, and more.
+The first financial CLI tool that is free and fully open source. With over 600 commands, the cli has access to equity, options, crypto, forex, macro economy, fixed income, alternative datasets, and more.
 
 Sign up to the [OpenBB Hub](https://my.openbb.co/login) to use our Windows or MacOS installers to get started.
 
 <a href="https://www.youtube.com/playlist?list=PLXcRIKcHAUP45_ZZCxxvPyXFKHdq9kM8T">
-  <p align="center">Getting started with the OpenBB Terminal</p>
+  <p align="center">Getting started with the OpenBB CLI</p>
 </a>
 
 <p align="center">
